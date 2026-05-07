@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#060e1f"/>
+  <!-- monitor body -->
+  <rect x="4" y="6" width="24" height="16" rx="2" fill="none" stroke="#4fc3f7" stroke-width="1.8"/>
+  <!-- monitor screen inner glow -->
+  <rect x="6" y="8" width="20" height="12" rx="1" fill="rgba(79,195,247,0.12)"/>
+  <!-- pulse/wave line on screen -->
+  <polyline points="8,14 11,14 13,10 15,18 17,12 19,16 22,14 24,14"
+    fill="none" stroke="#4fc3f7" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- stand neck -->
+  <rect x="14.5" y="22" width="3" height="3" rx="0.5" fill="#4fc3f7" opacity="0.7"/>
+  <!-- stand base -->
+  <rect x="11" y="25" width="10" height="2" rx="1" fill="#4fc3f7" opacity="0.7"/>
+</svg>

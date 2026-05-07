@@ -1,0 +1,12 @@
+frontend/node_modules
+__pycache__/
+*.pyc
+*.log
+.playwright-mcp/
+.claude
+config.yaml
+.env
+.env.*
+
+# 原始截图（含敏感信息，仅保留打码版本）
+docs/screenshots/raw_*.png
